@@ -1,2 +1,3 @@
-# mi-primer-repo-1
+# mi-primer README
+
 mi primer repositorio en github para practicar
